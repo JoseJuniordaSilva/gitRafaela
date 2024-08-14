@@ -40,5 +40,8 @@ $ dei um controle shift ins    <----------<----------<----------<----------
 bash: dei: command not found
 
 o ultimo COMANDO É 
-git push -u origin main <----------<----------<----------<----------<----------
+git push -u origin main <----------<----------<----------<----------<---------- na primeira vez, depois nao 
+precisa do -u, basta GIT PUSH ORIGIN MAIN
+
+
 
